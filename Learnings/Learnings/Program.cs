@@ -11,6 +11,7 @@
             ////AllValidParenthesis(3, 3, 3, 0, hashSet, new char[6]);
             ///var x = AllValidParenthesis2(2, 2, 2, hashSet, string.Empty);
             ///Console.WriteLine(string.Join(",", hashSet));///
+            Graphs.DijkestraDemo.DijkestrDriver();
         }
 
         
